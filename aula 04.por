@@ -1,16 +1,19 @@
-programa // AULA 04 - COMANDO DE ENTRADA- LEIA 
+programa
+ // AULA 04 - COMANDO DE ENTRADA- LEIA 
 {
 	
 	funcao inicio() // CADASTRO DE CLIENTES
 	{
 		//VARIAVEIS 
-	}cadeia nome 
+	}
+cadeia nome 
 	inteiro idade 
 	inteiro cpf
 	real altura 
 	cadeia endereco 
 	
-}   // comando de entrada
+}
+   // comando de entrada
     escreva("*********** CADASTRO DE CLIENTES *******")
     escreva("\n digite seu nome: ")
     leia (nome)
@@ -24,11 +27,11 @@ programa // AULA 04 - COMANDO DE ENTRADA- LEIA
     leia (endereco) 
 
     escreva("\n ----- COMPROVANTE DE INSCRIÇAO ----- ") 
-    escreva("\n nome: ", nome) 
-    escreva("\n idade: ", idade)
-    escreva("\n cpf : ", cpf)
-    escreva("\n altura: ", altura)
-    escreva("\n endereço: ", endereco) 
+    escreva("\n nome: ", lais ) 
+    escreva("\n idade: ", 16)
+    escreva("\n cpf : ", 000000000000)
+    escreva("\n altura: ", 1.72)
+    escreva("\n endereço: ", rua 121) 
     
 /* $$$ Portugol Studio $$$ 
  * 
